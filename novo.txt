@@ -1,0 +1,4 @@
+escrever dados em um arquivo assim é mais facil
+podendo ter varias linhas que quiser
+novos dados
+dados modificados
